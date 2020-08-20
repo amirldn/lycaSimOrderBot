@@ -1,11 +1,22 @@
 # lycaSimBot
-Orders LycaMobile Sim Cards
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+A bot that will order LycaMobile Sim Cards using Selenium Web Driver
 
 
-Instructions
-run cmd in this directory and run this line
-*python get-pip.py*
-then once that completes run this line
-*pip3 install selenium*
-then run
-*python3 simOrder.py*
+## Getting Started
+**Instructions**
+1 ) Clone the repository and cd into it
+
+    git clone https://github.com/amirmaula/lycaSimOrderBot.git
+
+2 ) Run a CLI and execute
+
+    pip install -r requirements.txt
+    
+3 ) Execute
+    
+    python3 simOrder.py
+
+
+
