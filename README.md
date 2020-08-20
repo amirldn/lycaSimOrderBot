@@ -6,6 +6,7 @@ A bot that will order LycaMobile Sim Cards using Selenium Web Driver
 
 ## Getting Started
 **Instructions**
+
 1 ) Clone the repository and cd into it
 
     git clone https://github.com/amirmaula/lycaSimOrderBot.git
